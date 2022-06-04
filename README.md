@@ -1,16 +1,25 @@
-# cit-p2</br>
+# cit-p2
 
-Learning Objectives</br>
+Learning Objectives
 
-After completing this project, you will:</br>
 
-Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control</br>
-Gain experience writing and executing non-web server Node.js JavaScript code</br>
-Practice refactoring JavaScript code</br>
+After completing this project, you will:
 
-Overview</br>
 
-Project elements:</br>
+Gain experience using git via your CLI and Visual Studio Code (VSCode) Source Control
+
+
+Gain experience writing and executing non-web server Node.js JavaScript code
+
+
+Practice refactoring JavaScript code
+
+
+Overview
+
+
+Project elements:
+
 
 Use the command line interface (CLI) of your operating system to create and work with a git repository (repo)</br>
 Refactor the JavaScript program from the previous project to practice using git and practice refactoring</br>
